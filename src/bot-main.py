@@ -1,6 +1,6 @@
 import discord
 from discord.ext import commands
-TOKEN = 'MTQwMjAwNTQ5NzEwMzc3NzgxMg.GWA3e9.tXph7VgmwXNAwbz71K2F8u6BO0sZZv-l98P1sI'
+TOKEN = '' #to make read venv for this
 
 intents = discord.Intents.default()
 intents.message_content = True
